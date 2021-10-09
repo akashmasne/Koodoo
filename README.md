@@ -38,3 +38,9 @@ CMD>python fetch_top_stories_eu_parliament.py  --url=https://www.europarl.europa
 ```
 
 So in future, if the rss source endpoint is changed or a different rss endpoint is required, script will not require any code change.
+
+
+Does it solve/run for the basic case? =>  Yes
+Does it handle different scenarios?  => We can limit number of news item if required.
+How portable is it? => Just need to copy two files to destintion and can start using it.
+How does someone run it on any machine? => same as above
