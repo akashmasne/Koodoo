@@ -15,7 +15,7 @@ We recommend that you spend more time on this walkthrough / document than the ac
 
 ## Installation
 
-For installation on new system, User can clone the git or just copy paste the python script file along with requirements.txt file to the destination on the server and start using it then and there.
+For installation on new system, User can clone this git repository or just copy paste the python script file along with requirements.txt file to the destination on the server and start using it then and there.
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install required libraries.
 All libraries come with python except Pandas(non standard library)
