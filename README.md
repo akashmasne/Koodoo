@@ -15,12 +15,23 @@ We recommend that you spend more time on this walkthrough / document than the ac
 
 ## Installation
 
+For installation on new system, User can clone the git or just copy paste the python script file along with requirements.txt file to the destination on the server and start using it then and there.
+
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install required libraries.
-All libraries come with python except Pandas
+All libraries come with python except Pandas(non standard library)
 
 ```bash
 pip install -f requirements.txt
 ```
 
 ## Usage
->>python fetch_top_stories_eu_parliament.py
+=>python fetch_top_stories_eu_parliament.py
+
+Arguments are optional.
+There is flexiblity provided for user to provide rss feed point and output csv filename. It can be run as below example
+
+```bash
+CMD>python fetch_top_stories_eu_parliament.py  --url=https://www.europarl.europa.eu/rss/doc/top-stories/en.xml --output_csv_filename=eu-rss.csv
+```
+
+So in future, if the rss source endpoint is changed or a different rss endpoint is required, script will not require any code change.
