@@ -11,7 +11,7 @@ Put together a script or program (using any language or technology of your choic
 Write a README walkthrough guide which explains how to use your script, any installation steps and any bits of information required to help someone else run the script.
 We recommend that you spend more time on this walkthrough / document than the actual script itself and really focus on the developer experience of using, and running your script.
 
-=================================================================================================================================================================================
+======================================================================================================================================================================================
 
 ## Installation
 
