@@ -16,7 +16,11 @@ We recommend that you spend more time on this walkthrough / document than the ac
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install required libraries.
+All libraries come with python except Pandas
 
 ```bash
 pip install -f requirements.txt
 ```
+
+## Usage
+>>python fetch_top_stories_eu_parliament.py
