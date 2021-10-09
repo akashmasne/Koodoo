@@ -4,8 +4,8 @@ Koodoo Technical test
 # Part A
 Put together a script or program (using any language or technology of your choice) that:
 
-1.) Retrieves "Top Stories" from this parliament data RSS feed endpoint: https://www.europarl.europa.eu/rss/doc/top-stories/en.xml
-2.) Outputs a CSV file of the data.
+1. Retrieves "Top Stories" from this parliament data RSS feed endpoint: https://www.europarl.europa.eu/rss/doc/top-stories/en.xml
+2. Outputs a CSV file of the data.
 
 # Part B
 Write a README walkthrough guide which explains how to use your script, any installation steps and any bits of information required to help someone else run the script.
